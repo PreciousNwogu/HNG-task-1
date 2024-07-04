@@ -1,4 +1,4 @@
-@hng_task_1_HostAddress = http://localhost:5074
+@hng_task_1_HostAddress = http://hngtask1.runasp.net
 
 GET {{hng_task_1_HostAddress}}/weatherforecast/
 Accept: application/json

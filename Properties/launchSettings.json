@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:56852",
+      "applicationUrl": "http://hngtask1.runasp.net",
       "sslPort": 44344
     }
   },
@@ -13,7 +13,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:5281;https://localhost:5001",
+      "applicationUrl": "http://hngtask1.runasp.net;https://hngtask1.runasp.net",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

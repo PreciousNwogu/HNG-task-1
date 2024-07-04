@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hng-task-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1267fd62c2cdd6d2312a5cb08ea49901f492e7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("hng-task-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hng-task-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
